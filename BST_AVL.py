@@ -348,6 +348,7 @@ def AVL_delete(tree,data, previous=None, deletion=False):
         
     
 #----------------TESTINGS-------------------
+# change them as you want
 tree=root(50)
  
 insert(tree,root(70))
